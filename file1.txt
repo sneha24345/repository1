@@ -1,4 +1,4 @@
-good morning
+hello everyone,good morning
 updated
 updated by branch 'b1'
 updated by branch b2
